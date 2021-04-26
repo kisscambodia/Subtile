@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=681075,RESOLUTION=856x360,NAME="360p"
-ep.0.1618011705.360.m3u8
+https://raw.githubusercontent.com/kisscambodia/Subtile/master/HLS/alita/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2792701,RESOLUTION=1712x720,NAME="720p"
-ep.0.1618011705.720.m3u8
+https://raw.githubusercontent.com/kisscambodia/TEST/master/alita/kisskh/index.m3u8
